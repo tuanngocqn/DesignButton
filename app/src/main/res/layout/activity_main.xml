@@ -5,12 +5,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
-
     <Button
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:textSize="20sp"
-        android:textColor="#F33676"
+        android:textColor="#ffffff"
         android:textAllCaps="false"
         android:text="Start"
         android:background="@drawable/button_new"
