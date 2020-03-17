@@ -10,7 +10,7 @@
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:textSize="20sp"
-        android:textColor="#ffffff"
+        android:textColor="#F33676"
         android:textAllCaps="false"
         android:text="Start"
         android:background="@drawable/button_new"
